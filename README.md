@@ -30,10 +30,8 @@ AgroData Bharat is a data-driven project that provides comprehensive **state-wis
 
 ## 📊 Sample Visualizations
 
-<!-- Replace with your real image paths later -->
 <div align="center">
-  <img src="visuals/maharashtra/soil_map.png" width="400"/>
-  <img src="visuals/maharashtra/crop_trend_bar.png" width="400"/>
+  <img src="visuals/maharashtra/crop_distribution_maharashtra.png" width="600"/>
 </div>
 
 ---
@@ -46,3 +44,15 @@ AgroData Bharat is a data-driven project that provides comprehensive **state-wis
 - [Soil Health Card Scheme](https://soilhealth.dac.gov.in)
 - [FAO India](https://www.fao.org/india)
 - Research articles, ICAR/KVK data
+  
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo, submit pull requests, or suggest improvements via Issues. Let’s build a nationwide agri-intelligence platform together. 🇮🇳
+
+---
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
