@@ -31,7 +31,7 @@ AgroData Bharat is a data-driven project that provides comprehensive **state-wis
 ## 📊 Sample Visualizations
 
 <div align="center">
-  <img src="visuals/maharashtra/crop_distribution_maharashtra.png" width="600"/>
+  <img src="visuals/crop_distribution_maharashtra.png" width="600"/>
 </div>
 
 ---
